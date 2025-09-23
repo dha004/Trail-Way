@@ -21,18 +21,10 @@ Built with a modern tech stack, TrailWay integrates live weather data and emphas
   <li><strong>Backend</strong>: FastAPI (Python), Uvicorn</li>
   <li><strong>Database</strong>: PostgreSQL, SQLAlchemy</li>
   <li><strong>APIs</strong>: OpenWeatherMap API</li>
-  <li><strong>Tools</strong>: Figma (UI design), GitHub, Vercel</li>
+  <li><strong>Tools</strong>: Figma (UI design), GitHub</li>
 </ul>
 
-<h2> Project Structure</h2>
-<pre>
-trailway/
-├── frontend/        # React + Tailwind app
-├── backend/         # FastAPI app
-└── README.md
-</pre>
-
-<h2>🎯 Learning Highlights</h2>
+<h2> Learning Highlights</h2>
 <ul>
   <li>Implemented <strong>React with Tailwind CSS</strong> for modern, responsive UI design</li>
   <li>Designed RESTful APIs with <strong>FastAPI</strong> and integrated external APIs (OpenWeatherMap)</li>
